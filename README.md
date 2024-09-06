@@ -35,7 +35,7 @@ Tuned hyperparameters to optimize model performance.
 Evaluated models using accuracy_score
 Selected the most effective model for heart disease prediction.
 ## Results
-The final model achieved an accuracy of 70%, demonstrating strong predictive power in identifying individuals at risk of heart disease.
+The final model achieved an accuracy of 82%, demonstrating strong predictive power in identifying individuals at risk of heart disease.
 
 ## Conclusion
 This project underscores the potential of machine learning in healthcare, particularly for early diagnosis and prevention of heart disease. The insights gained could contribute to more personalized healthcare strategies.
